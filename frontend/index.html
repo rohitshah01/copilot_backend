@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Copilot Rest Endpoint Explorer</title>
+    <link rel="stylesheet" href="assets/lds/assets/styles/salesforce-lightning-design-system.min.css">
+</head>
+<body>
+<div class="slds-grid slds-grid_align-center">
+    <div class="slds-col slds-size--1-of-2">
+        <article class="slds-card slds-m-around_medium slds-p-around_medium">
+            <div class="slds-card__header">
+                <h1 class="slds-card__header-title">Get all employees</h1>
+            </div>
+
+            <div class="slds-card__body slds-border_top slds-p-top_medium">
+                <!-- test endpoint to get all employees -->
+                <form class="slds-form_stacked" action="/employees" method="GET">
+                    no inputs available
+                    <footer class="slds-m-top--medium slds-p-top_medium slds-border_top">
+                        <input type="submit" value="Get all employees" class="slds-button slds-button_brand">
+                    </footer>
+                </form>
+            </div>
+        </article>
+
+        <article class="slds-card slds-m-around_medium slds-p-around_medium">
+            <div class="slds-card__header">
+                <h1 class="slds-card__header-title">Get a single employee</h1>
+            </div>
+
+            <div class="slds-card__body slds-border_top slds-p-top_medium">
+                <!-- test endpoint to get specific employee -->
+                <form class="slds-form_stacked" action="employees/{id}" method="GET">
+                    <div class="slds-form-element">
+                        <label class="slds-form-element__label" for="get_employee_id">Employee Id</label>
+                        <div class="slds-form-element__control">
+                            <input type="text" id="get_employee_id" name="id" placeholder="Employee ID"
+                                   class="slds-input"/>
+                        </div>
+                    </div>
+                    <footer class="slds-m-top--medium slds-p-top_medium slds-border_top">
+                        <input type="submit" value="Get employee details" class="slds-button slds-button_brand">
+                    </footer>
+                </form>
+
+            </div>
+        </article>
+
+        <article class="slds-card slds-m-around_medium slds-p-around_medium">
+            <div class="slds-card__header">
+                <h1 class="slds-card__header-title">Create a new employee</h1>
+            </div>
+
+            <div class="slds-card__body slds-border_top slds-p-top_medium">
+                <!-- test endpoint to create new employee -->
+                <form class="slds-form_stacked" action="/employees" method="POST">
+                    <div class="slds-form-element">
+                        <label class="slds-form-element__label" for="post_first_name">First Name</label>
+                        <div class="slds-form-element__control">
+                            <input type="text" id="post_first_name" name="first_name" placeholder="First Name"
+                                   class="slds-input"/>
+                        </div>
+                    </div>
+                    <div class="slds-form-element">
+                        <label class="slds-form-element__label" for="post_last_name">Last Name</label>
+                        <div class="slds-form-element__control">
+                            <input type="text" id="post_last_name" name="last_name" placeholder="Last Name"
+                                   class="slds-input"/>
+                        </div>
+                    </div>
+                    <div class="slds-form-element">
+                        <label class="slds-form-element__label" for="post_email">Email</label>
+                        <div class="slds-form-element__control">
+                            <input type="text" id="post_email" name="email" placeholder="Email" class="slds-input"/>
+                        </div>
+                    </div>
+                    <div class="slds-form-element">
+                        <label class="slds-form-element__label" for="post_team">Designation / Team</label>
+                        <div class="slds-form-element__control">
+                            <input type="text" id="post_team" name="team" placeholder="Designation / Team"
+                                   class="slds-input"/>
+                        </div>
+                    </div>
+                    <footer class="slds-m-top--medium slds-p-top_medium slds-border_top">
+                        <input type="submit" value="Create new employee" class="slds-button slds-button_brand">
+                    </footer>
+                </form>
+            </div>
+        </article>
+
+        <article class="slds-card slds-m-around_medium slds-p-around_medium">
+            <div class="slds-card__header">
+                <h1 class="slds-card__header-title">Update a single employee</h1>
+            </div>
+
+            <div class="slds-card__body slds-border_top slds-p-top_medium">
+                <!-- test endpoint to update employee -->
+                <form class="slds-form_stacked" action="/employees/{id}" method="PUT">
+                    <div class="slds-form-element">
+                        <label class="slds-form-element__label" for="put_first_name">First Name</label>
+                        <div class="slds-form-element__control">
+                            <input type="text" id="put_first_name" name="first_name" placeholder="First Name"
+                                   class="slds-input"/>
+                        </div>
+                    </div>
+                    <div class="slds-form-element">
+                        <label class="slds-form-element__label" for="put_last_name">Last Name</label>
+                        <div class="slds-form-element__control">
+                            <input type="text" id="put_last_name" name="last_name" placeholder="Last Name"
+                                   class="slds-input"/>
+                        </div>
+                    </div>
+                    <div class="slds-form-element">
+                        <label class="slds-form-element__label" for="put_email">Email</label>
+                        <div class="slds-form-element__control">
+                            <input type="text" id="put_email" name="email" placeholder="Email" class="slds-input"/>
+                        </div>
+                    </div>
+                    <div class="slds-form-element">
+                        <label class="slds-form-element__label" for="put_team">Designation / Team</label>
+                        <div class="slds-form-element__control">
+                            <input type="text" id="put_team" name="team" placeholder="Designation / Team"
+                                   class="slds-input"/>
+                        </div>
+                    </div>
+
+                    <footer class="slds-m-top--medium slds-p-top_medium slds-border_top">
+                        <input type="submit" value="Update employee" class="slds-button slds-button_brand">
+                    </footer>
+                </form>
+
+            </div>
+        </article>
+
+        <article class="slds-card slds-m-around_medium slds-p-around_medium">
+            <div class="slds-card__header">
+                <h1 class="slds-card__header-title">Delete a single employee</h1>
+            </div>
+
+            <div class="slds-card__body slds-border_top slds-p-top_medium">
+                <!-- test endpoint to delete employee -->
+                <form class="slds-form_stacked" action="/employees/{id}" method="DELETE">
+                    <div class="slds-form-element">
+                        <label class="slds-form-element__label" for="delete_employee_id">Employee Id</label>
+                        <div class="slds-form-element__control">
+                            <input type="text" id="delete_employee_id" name="id" placeholder="Employee ID"
+                                   class="slds-input"/>
+                        </div>
+                    </div>
+                    <footer class="slds-m-top--medium slds-p-top_medium slds-border_top">
+                        <input type="submit" value="Delete employee" class="slds-button slds-button_brand">
+                    </footer>
+                </form>
+            </div>
+        </article>
+    </div>
+</div>
+</body>
+</html>

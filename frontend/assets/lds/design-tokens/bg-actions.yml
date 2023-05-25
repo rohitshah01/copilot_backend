@@ -1,0 +1,414 @@
+# Copyright (c) 2015-present, salesforce.com, inc. All rights reserved
+# Licensed under BSD 3-Clause - see LICENSE.txt or git.io/sfdc-license
+
+global:
+  category: background-color
+  type: color
+  cssProperties:
+  - background
+  - background-color
+props:
+  ACTION_CHANGE_OWNER:
+    value: '#107CAD'
+  ACTION_SHARE:
+    value: '#107CAD'
+  ACTION_INFO:
+    value: '#107CAD'
+  ACTION_UPLOAD:
+    value: '#107CAD'
+  ACTION_CHANGE_RECORD_TYPE:
+    value: '#107CAD'
+  ACTION_CHECK:
+    value: '#107CAD'
+  ACTION_DOWNLOAD:
+    value: '#107CAD'
+  ACTION_EDIT_RELATIONSHIP:
+    value: '#06A59A'
+  ACTION_FREEZE_USER:
+    value: '#107CAD'
+  ACTION_MANAGE_PERM_SETS:
+    value: '#107CAD'
+  ACTION_PASSWORD_UNLOCK:
+    value: '#107CAD'
+  ACTION_REFRESH:
+    value: '#107CAD'
+  ACTION_REMOVE:
+    value: '#107CAD'
+  ACTION_RESET_PASSWORD:
+    value: '#107CAD'
+  ACTION_USER_ACTIVATION:
+    value: '#107CAD'
+  ACTION_ADD_CONTACT:
+    value: '#9050E9'
+  ACTION_APPROVAL:
+    value: '#06A59A'
+  ACTION_CANVAS:
+    value: '#107CAD'
+  ACTION_GOAL:
+    value: '#1B96FF'
+  ACTION_OPPORTUNITY_COMPETITOR:
+    value: '#FF5D2D'
+  ACTION_OPPORTUNITY_LINE_ITEM:
+    value: '#FF5D2D'
+  ACTION_OPPORTUNITY_TEAM_MEMBER:
+    value: '#FF5D2D'
+  ACTION_QUESTION_POST_ACTION:
+    value: '#3BA755'
+  ACTION_QUOTE:
+    value: '#3BA755'
+  ACTION_REJECT:
+    value: '#06A59A'
+  ACTION_SOCIAL_POST:
+    value: '#FF538A'
+  ACTION_FALLBACK:
+    value: '#5867E8'
+  ACTION_EDIT:
+    value: '#06A59A'
+  ACTION_DELETE:
+    value: '#FF538A'
+  ACTION_CLONE:
+    value: '#1B96FF'
+  ACTION_FOLLOW:
+    value: '#1B96FF'
+  ACTION_FOLLOWING:
+    value: '#3BA755'
+  ACTION_JOIN_GROUP:
+    value: '#5867E8'
+  ACTION_LEAVE_GROUP:
+    value: '#FF5D2D'
+  ACTION_EDIT_GROUPS:
+    value: '#06A59A'
+  ACTION_SHARE_POST:
+    value: '#1B96FF'
+  ACTION_USER:
+    value: '#1B96FF'
+  ACTION_SHARE_FILE:
+    value: '#939393'
+  ACTION_NEW_TASK:
+    value: '#3BA755'
+  ACTION_NEW_CONTACT:
+    value: '#9050E9'
+  ACTION_NEW_OPPORTUNITY:
+    value: '#FF5D2D'
+  ACTION_NEW_CASE:
+    value: '#FF5D2D'
+  ACTION_NEW_LEAD:
+    value: '#FF5D2D'
+  ACTION_SHARE_THANKS:
+    value: '#FF538A'
+  ACTION_SHARE_LINK:
+    value: '#5867E8'
+  ACTION_SHARE_POLL:
+    value: '#1B96FF'
+  ACTION_NEW_EVENT:
+    value: '#FF538A'
+  ACTION_NEW_CHILD_CASE:
+    value: '#FF5D2D'
+  ACTION_LOG_A_CALL:
+    value: '#06A59A'
+  ACTION_NEW_NOTE:
+    value: '#FF5D2D'
+  ACTION_NEW:
+    value: '#1B96FF'
+  ACTION_FILTER:
+    value: '#FF538A'
+  ACTION_SORT:
+    value: '#3BA755'
+  ACTION_DESCRIPTION:
+    value: '#3BA755'
+  ACTION_DEFER:
+    value: '#FF538A'
+  ACTION_UPDATE:
+    value: '#107CAD'
+  ACTION_LOG_THIS_EVENT:
+    value: '#FF538A'
+  ACTION_EMAIL:
+    value: '#107CAD'
+  ACTION_DIAL_IN:
+    value: '#5867E8'
+  ACTION_MAP:
+    value: '#1B96FF'
+  ACTION_CALL:
+    value: '#06A59A'
+  ACTION_GOOGLE_NEWS:
+    value: '#FF538A'
+  ACTION_WEB_LINK:
+    value: '#1B96FF'
+  ACTION_SUBMIT_FOR_APPROVAL:
+    value: '#3BA755'
+  ACTION_SEARCH:
+    value: '#1B96FF'
+  ACTION_CLOSE:
+    value: '#FF538A'
+  ACTION_BACK:
+    value: '#06A59A'
+  ACTION_OFFICE_365:
+    value: '#FF5D2D'
+  ACTION_CONCUR:
+    value: '#06A59A'
+  ACTION_DROPBOX:
+    value: '#1B96FF'
+  ACTION_EVERNOTE:
+    value: '#3BA755'
+  ACTION_DOCUSIGN:
+    value: '#1B96FF'
+  ACTION_MORE:
+    value: '#1B96FF'
+  ACTION_NOTEBOOK:
+    value: '#FF5D2D'
+    deprecated: true
+    comment: Use ACTION_NEW_NOTEBOOK instead.
+  ACTION_NEW_NOTEBOOK:
+    value: '#FF5D2D'
+  ACTION_PREVIEW:
+    value: '#5867E8'
+  ACTION_PRIORITY:
+    value: '#FF5D2D'
+  ACTION_DEFAULT_CUSTOM_OBJECT:
+    value: '#107CAD'
+  ACTION_NEW_CUSTOM_OBJECT:
+    value: '#3BA755'
+  ACTION_LEAD_CONVERT:
+    value: '#FF5D2D'
+  ACTION_NEW_ACCOUNT:
+    value: '#5867E8'
+  ACTION_NEW_PERSON_ACCOUNT:
+    value: '#5867E8'
+  ACTION_NEW_CAMPAIGN:
+    value: '#FF5D2D'
+  ACTION_NEW_GROUP:
+    value: '#1B96FF'
+  ACTION_UPDATE_STATUS:
+    value: '#06A59A'
+  ACTION_NEW_CUSTOM1:
+    value: '#FF538A'
+  ACTION_NEW_CUSTOM2:
+    value: '#3BA755'
+  ACTION_NEW_CUSTOM3:
+    value: '#FF5D2D'
+  ACTION_NEW_CUSTOM4:
+    value: '#FF5D2D'
+  ACTION_NEW_CUSTOM5:
+    value: '#3BA755'
+  ACTION_NEW_CUSTOM6:
+    value: '#3BA755'
+  ACTION_NEW_CUSTOM7:
+    value: '#5867E8'
+  ACTION_NEW_CUSTOM8:
+    value: '#06A59A'
+  ACTION_NEW_CUSTOM9:
+    value: '#1B96FF'
+  ACTION_NEW_CUSTOM10:
+    value: '#5867E8'
+  ACTION_NEW_CUSTOM11:
+    value: '#5867E8'
+  ACTION_NEW_CUSTOM12:
+    value: '#CB65FF'
+  ACTION_NEW_CUSTOM13:
+    value: '#FF538A'
+  ACTION_NEW_CUSTOM14:
+    value: '#06A59A'
+  ACTION_NEW_CUSTOM15:
+    value: '#FF538A'
+  ACTION_NEW_CUSTOM16:
+    value: '#FF5D2D'
+  ACTION_NEW_CUSTOM17:
+    value: '#3BA755'
+  ACTION_NEW_CUSTOM18:
+    value: '#3BA755'
+  ACTION_NEW_CUSTOM19:
+    value: '#06A59A'
+  ACTION_NEW_CUSTOM20:
+    value: '#06A59A'
+  ACTION_NEW_CUSTOM21:
+    value: '#5867E8'
+  ACTION_NEW_CUSTOM22:
+    value: '#5867E8'
+  ACTION_NEW_CUSTOM23:
+    value: '#CB65FF'
+  ACTION_NEW_CUSTOM24:
+    value: '#FF538A'
+  ACTION_NEW_CUSTOM25:
+    value: '#FF538A'
+  ACTION_NEW_CUSTOM26:
+    value: '#5867E8'
+  ACTION_NEW_CUSTOM27:
+    value: '#1B96FF'
+  ACTION_NEW_CUSTOM28:
+    value: '#3BA755'
+  ACTION_NEW_CUSTOM29:
+    value: '#3BA755'
+  ACTION_NEW_CUSTOM30:
+    value: '#FF5D2D'
+  ACTION_NEW_CUSTOM31:
+    value: '#FF538A'
+  ACTION_NEW_CUSTOM32:
+    value: '#06A59A'
+  ACTION_NEW_CUSTOM33:
+    value: '#3BA755'
+  ACTION_NEW_CUSTOM34:
+    value: '#FF5D2D'
+  ACTION_NEW_CUSTOM35:
+    value: '#FF538A'
+  ACTION_NEW_CUSTOM36:
+    value: '#CB65FF'
+  ACTION_NEW_CUSTOM37:
+    value: '#5867E8'
+  ACTION_NEW_CUSTOM38:
+    value: '#1B96FF'
+  ACTION_NEW_CUSTOM39:
+    value: '#3BA755'
+  ACTION_NEW_CUSTOM40:
+    value: '#3BA755'
+  ACTION_NEW_CUSTOM41:
+    value: '#06A59A'
+  ACTION_NEW_CUSTOM42:
+    value: '#3BA755'
+  ACTION_NEW_CUSTOM43:
+    value: '#5867E8'
+  ACTION_NEW_CUSTOM44:
+    value: '#3BA755'
+  ACTION_NEW_CUSTOM45:
+    value: '#FF538A'
+  ACTION_NEW_CUSTOM46:
+    value: '#1B96FF'
+  ACTION_NEW_CUSTOM47:
+    value: '#3BA755'
+  ACTION_NEW_CUSTOM48:
+    value: '#FF538A'
+  ACTION_NEW_CUSTOM49:
+    value: '#FF538A'
+  ACTION_NEW_CUSTOM50:
+    value: '#1B96FF'
+  ACTION_NEW_CUSTOM51:
+    value: '#FF5D2D'
+  ACTION_NEW_CUSTOM52:
+    value: '#FF538A'
+  ACTION_NEW_CUSTOM53:
+    value: '#FF538A'
+  ACTION_NEW_CUSTOM54:
+    value: '#FF538A'
+  ACTION_NEW_CUSTOM55:
+    value: '#CB65FF'
+  ACTION_NEW_CUSTOM56:
+    value: '#5867E8'
+  ACTION_NEW_CUSTOM57:
+    value: '#1B96FF'
+  ACTION_NEW_CUSTOM58:
+    value: '#06A59A'
+  ACTION_NEW_CUSTOM59:
+    value: '#FF5D2D'
+  ACTION_NEW_CUSTOM60:
+    value: '#FF538A'
+  ACTION_NEW_CUSTOM61:
+    value: '#FF538A'
+  ACTION_NEW_CUSTOM62:
+    value: '#5867E8'
+  ACTION_NEW_CUSTOM63:
+    value: '#3BA755'
+  ACTION_NEW_CUSTOM64:
+    value: '#5867E8'
+  ACTION_NEW_CUSTOM65:
+    value: '#FF538A'
+  ACTION_NEW_CUSTOM66:
+    value: '#FF5D2D'
+  ACTION_NEW_CUSTOM67:
+    value: '#FF538A'
+  ACTION_NEW_CUSTOM68:
+    value: '#FF538A'
+  ACTION_NEW_CUSTOM69:
+    value: '#FF538A'
+  ACTION_NEW_CUSTOM70:
+    value: '#FF538A'
+  ACTION_NEW_CUSTOM71:
+    value: '#CB65FF'
+  ACTION_NEW_CUSTOM72:
+    value: '#5867E8'
+  ACTION_NEW_CUSTOM73:
+    value: '#1B96FF'
+  ACTION_NEW_CUSTOM74:
+    value: '#06A59A'
+  ACTION_NEW_CUSTOM75:
+    value: '#939393'
+  ACTION_NEW_CUSTOM76:
+    value: '#FF538A'
+  ACTION_NEW_CUSTOM77:
+    value: '#FF538A'
+  ACTION_NEW_CUSTOM78:
+    value: '#1B96FF'
+  ACTION_NEW_CUSTOM79:
+    value: '#3BA755'
+  ACTION_NEW_CUSTOM80:
+    value: '#1B96FF'
+  ACTION_NEW_CUSTOM81:
+    value: '#FF538A'
+  ACTION_NEW_CUSTOM82:
+    value: '#FF538A'
+  ACTION_NEW_CUSTOM83:
+    value: '#FF538A'
+  ACTION_NEW_CUSTOM84:
+    value: '#FF538A'
+  ACTION_NEW_CUSTOM85:
+    value: '#FF538A'
+  ACTION_NEW_CUSTOM86:
+    value: '#FF538A'
+  ACTION_NEW_CUSTOM87:
+    value: '#CB65FF'
+  ACTION_NEW_CUSTOM88:
+    value: '#9050E9'
+  ACTION_NEW_CUSTOM89:
+    value: '#107CAD'
+  ACTION_NEW_CUSTOM90:
+    value: '#06A59A'
+  ACTION_NEW_CUSTOM91:
+    value: '#939393'
+  ACTION_NEW_CUSTOM92:
+    value: '#056764'
+  ACTION_NEW_CUSTOM93:
+    value: '#5C5C5C'
+  ACTION_NEW_CUSTOM94:
+    value: '#06A59A'
+  ACTION_NEW_CUSTOM95:
+    value: '#3BA755'
+  ACTION_NEW_CUSTOM96:
+    value: '#1B96FF'
+  ACTION_NEW_CUSTOM97:
+    value: '#FF538A'
+  ACTION_NEW_CUSTOM98:
+    value: '#FF5D2D'
+  ACTION_NEW_CUSTOM99:
+    value: '#FF538A'
+  ACTION_NEW_CUSTOM100:
+    value: '#FF538A'
+  ACTION_APEX:
+    value: '#5C5C5C'
+  ACTION_FLOW:
+    value: '#107CAD'
+  ACTION_ANNOUNCEMENT:
+    value: '#FF5D2D'
+  ACTION_RECORD:
+    value: '#3BA755'
+  ACTION_LOG_EVENT:
+    value: '#1B96FF'
+  ACTION_ADD_RELATIONSHIP:
+    value: '#1B96FF'
+  ACTION_REMOVE_RELATIONSHIP:
+    value: '#FF538A'
+  ACTION_VIEW_RELATIONSHIP:
+    value: '#1B96FF'
+  ACTION_ADD_FILE:
+    value: '#5867E8'
+  ACTION_ADD_PHOTO_VIDEO:
+    value: '#06A59A'
+  ACTION_RECALL:
+    value: '#084968'
+  ACTION_SCRIPT:
+    value: '#107CAD'
+  ACTION_BUG:
+    value: '#FF538A'
+  ACTION_ADJUST_VALUE:
+    value: '#3BA755'
+  ACTION_SCAN_ENABLED:
+    value: '#1B96FF'
+  ACTION_SCAN_DISABLED:
+    value: '#939393'

@@ -1,0 +1,5561 @@
+{
+  "aliases": {},
+  "props": {
+    "CONTACT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#5867E8",
+      "originalValue": "#5867E8",
+      "name": "CONTACT"
+    },
+    "CRYPTO_TRANSACTION": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "CRYPTO_TRANSACTION"
+    },
+    "MULTI_SELECT_CHECKBOX": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#939393",
+      "originalValue": "#939393",
+      "name": "MULTI_SELECT_CHECKBOX"
+    },
+    "WORK_ORDER": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "WORK_ORDER"
+    },
+    "POST": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "POST"
+    },
+    "GLOBAL_CONSTANT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "GLOBAL_CONSTANT"
+    },
+    "CHANGE_REQUEST": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#056764",
+      "originalValue": "#056764",
+      "name": "CHANGE_REQUEST"
+    },
+    "CAROUSEL": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#3BA755",
+      "originalValue": "#3BA755",
+      "name": "CAROUSEL"
+    },
+    "WORK_CONTRACT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "WORK_CONTRACT"
+    },
+    "RESOURCE_SKILL": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#3BA755",
+      "originalValue": "#3BA755",
+      "name": "RESOURCE_SKILL"
+    },
+    "SYSTEM_AND_GLOBAL_VARIABLE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "SYSTEM_AND_GLOBAL_VARIABLE"
+    },
+    "SEGMENTS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "SEGMENTS"
+    },
+    "ACCOUNT_INFO": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#5867E8",
+      "originalValue": "#5867E8",
+      "name": "ACCOUNT_INFO"
+    },
+    "GOALS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "GOALS"
+    },
+    "TOUR_CHECK": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#9050E9",
+      "originalValue": "#9050E9",
+      "name": "TOUR_CHECK"
+    },
+    "ADJUST_VALUE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#3BA755",
+      "originalValue": "#3BA755",
+      "name": "ADJUST_VALUE"
+    },
+    "CASE_WRAP_UP": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "CASE_WRAP_UP"
+    },
+    "INVESTMENT_ACCOUNT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#3BA755",
+      "originalValue": "#3BA755",
+      "name": "INVESTMENT_ACCOUNT"
+    },
+    "STORE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#22683E",
+      "originalValue": "#22683E",
+      "name": "STORE"
+    },
+    "SLIDER": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#939393",
+      "originalValue": "#939393",
+      "name": "SLIDER"
+    },
+    "OUTPUT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "OUTPUT"
+    },
+    "MEDICATION_INGREDIENT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "MEDICATION_INGREDIENT"
+    },
+    "STORE_GROUP": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "STORE_GROUP"
+    },
+    "ALL": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "ALL"
+    },
+    "SERVICE_TERRITORY_POLICY": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "SERVICE_TERRITORY_POLICY"
+    },
+    "SLACK_CONVERSATIONS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#481A54",
+      "originalValue": "#481A54",
+      "name": "SLACK_CONVERSATIONS"
+    },
+    "PICKLIST_CHOICE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "PICKLIST_CHOICE"
+    },
+    "CHOICE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "CHOICE"
+    },
+    "FUNDING_REQUIREMENT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#22683E",
+      "originalValue": "#22683E",
+      "name": "FUNDING_REQUIREMENT"
+    },
+    "YOUR_ACCOUNT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "YOUR_ACCOUNT"
+    },
+    "APP": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "APP"
+    },
+    "DEFAULT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#939393",
+      "originalValue": "#939393",
+      "name": "DEFAULT"
+    },
+    "CASE_MILESTONE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "CASE_MILESTONE"
+    },
+    "TODAY": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF538A",
+      "originalValue": "#FF538A",
+      "name": "TODAY"
+    },
+    "BUYER_ACCOUNT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#22683E",
+      "originalValue": "#22683E",
+      "name": "BUYER_ACCOUNT"
+    },
+    "LEAD_LIST": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "LEAD_LIST"
+    },
+    "WORK_PLAN_TEMPLATE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "WORK_PLAN_TEMPLATE"
+    },
+    "TABLEAU": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#0F1E3C",
+      "originalValue": "#0F1E3C",
+      "name": "TABLEAU"
+    },
+    "SHIFT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF538A",
+      "originalValue": "#FF538A",
+      "name": "SHIFT"
+    },
+    "PRODUCT_ITEM_TRANSACTION": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "PRODUCT_ITEM_TRANSACTION"
+    },
+    "PERSON_LANGUAGE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "PERSON_LANGUAGE"
+    },
+    "APEX": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "APEX"
+    },
+    "REPLY_TEXT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF538A",
+      "originalValue": "#FF538A",
+      "name": "REPLY_TEXT"
+    },
+    "ANSWER_PRIVATE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "ANSWER_PRIVATE"
+    },
+    "IMMUNIZATION": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF538A",
+      "originalValue": "#FF538A",
+      "name": "IMMUNIZATION"
+    },
+    "ASSET_DOWNTIME_PERIOD": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "ASSET_DOWNTIME_PERIOD"
+    },
+    "OPPORTUNITY_CONTACT ROLE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#5867E8",
+      "originalValue": "#5867E8",
+      "name": "OPPORTUNITY_CONTACT ROLE"
+    },
+    "RETAIL_BANKING_CONSOLE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "RETAIL_BANKING_CONSOLE"
+    },
+    "CHANNEL_PROGRAM_MEMBERS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "CHANNEL_PROGRAM_MEMBERS"
+    },
+    "APPS_ADMIN": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#5867E8",
+      "originalValue": "#5867E8",
+      "name": "APPS_ADMIN"
+    },
+    "DATADOTCOM": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "DATADOTCOM"
+    },
+    "SETTINGS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#22683E",
+      "originalValue": "#22683E",
+      "name": "SETTINGS"
+    },
+    "NETWORK_CONTRACT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#3BA755",
+      "originalValue": "#3BA755",
+      "name": "NETWORK_CONTRACT"
+    },
+    "CRYPTO_TRANSACTION_ENVELOPE_ITEM": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "CRYPTO_TRANSACTION_ENVELOPE_ITEM"
+    },
+    "PRODUCT_ITEM": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "PRODUCT_ITEM"
+    },
+    "METRICS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "METRICS"
+    },
+    "TOPIC2": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "TOPIC2"
+    },
+    "PARTNER_FUND_ALLOCATION": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "PARTNER_FUND_ALLOCATION"
+    },
+    "CARE_REQUEST_REVIEWER": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#3BA755",
+      "originalValue": "#3BA755",
+      "name": "CARE_REQUEST_REVIEWER"
+    },
+    "CRYPTO_TRANSACTION_ENVELOPE_CHANGE_SNAPSHOT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#CB65FF",
+      "originalValue": "#CB65FF",
+      "name": "CRYPTO_TRANSACTION_ENVELOPE_CHANGE_SNAPSHOT"
+    },
+    "APPROVAL": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#3BA755",
+      "originalValue": "#3BA755",
+      "name": "APPROVAL"
+    },
+    "WORK_QUEUE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "WORK_QUEUE"
+    },
+    "IOT_ORCHESTRATIONS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "IOT_ORCHESTRATIONS"
+    },
+    "VISUALFORCE_PAGE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "VISUALFORCE_PAGE"
+    },
+    "PERSON_ACCOUNT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#5867E8",
+      "originalValue": "#5867E8",
+      "name": "PERSON_ACCOUNT"
+    },
+    "ENTITY": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "ENTITY"
+    },
+    "SERVICE_TERRITORY_LOCATION": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#5867E8",
+      "originalValue": "#5867E8",
+      "name": "SERVICE_TERRITORY_LOCATION"
+    },
+    "QUALIFICATIONS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#22683E",
+      "originalValue": "#22683E",
+      "name": "QUALIFICATIONS"
+    },
+    "DOCUMENT_PREVIEW": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#B60554",
+      "originalValue": "#B60554",
+      "name": "DOCUMENT_PREVIEW"
+    },
+    "TAX_TREATMENT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#22683E",
+      "originalValue": "#22683E",
+      "name": "TAX_TREATMENT"
+    },
+    "ENTITLEMENT_POLICY": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#22683E",
+      "originalValue": "#22683E",
+      "name": "ENTITLEMENT_POLICY"
+    },
+    "FORM": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#3BA755",
+      "originalValue": "#3BA755",
+      "name": "FORM"
+    },
+    "PRODUCTS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#22683E",
+      "originalValue": "#22683E",
+      "name": "PRODUCTS"
+    },
+    "PROMPT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "PROMPT"
+    },
+    "ORDER_ITEM": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "ORDER_ITEM"
+    },
+    "READ_RECEIPTS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#3BA755",
+      "originalValue": "#3BA755",
+      "name": "READ_RECEIPTS"
+    },
+    "JAVASCRIPT_BUTTON": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "JAVASCRIPT_BUTTON"
+    },
+    "MAINTENANCE_ASSET": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "MAINTENANCE_ASSET"
+    },
+    "WORK_PLAN_RULE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "WORK_PLAN_RULE"
+    },
+    "LOOP": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "LOOP"
+    },
+    "PORTAL_ROLES_AND_SUBORDINATES": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "PORTAL_ROLES_AND_SUBORDINATES"
+    },
+    "WORK_CAPACITY_LIMIT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "WORK_CAPACITY_LIMIT"
+    },
+    "EMPLOYEE_ORGANIZATION": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "EMPLOYEE_ORGANIZATION"
+    },
+    "WORKFORCE_ENGAGEMENT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#B60554",
+      "originalValue": "#B60554",
+      "name": "WORKFORCE_ENGAGEMENT"
+    },
+    "CONSTANT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "CONSTANT"
+    },
+    "MARKETING_ACTIONS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#3BA755",
+      "originalValue": "#3BA755",
+      "name": "MARKETING_ACTIONS"
+    },
+    "CASE_TRANSCRIPT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "CASE_TRANSCRIPT"
+    },
+    "TIMESHEET_ENTRY": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#3BA755",
+      "originalValue": "#3BA755",
+      "name": "TIMESHEET_ENTRY"
+    },
+    "KEY_DATES": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "KEY_DATES"
+    },
+    "MULTI_PICKLIST": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#939393",
+      "originalValue": "#939393",
+      "name": "MULTI_PICKLIST"
+    },
+    "FACILITY_BED": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF538A",
+      "originalValue": "#FF538A",
+      "name": "FACILITY_BED"
+    },
+    "PRODUCT_WORKSPACE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#22683E",
+      "originalValue": "#22683E",
+      "name": "PRODUCT_WORKSPACE"
+    },
+    "VISIT_TEMPLATES": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "VISIT_TEMPLATES"
+    },
+    "RESTRICTION_POLICY": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "RESTRICTION_POLICY"
+    },
+    "TASK": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#3BA755",
+      "originalValue": "#3BA755",
+      "name": "TASK"
+    },
+    "ANSWER_BEST": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "ANSWER_BEST"
+    },
+    "ATTACH": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#9050E9",
+      "originalValue": "#9050E9",
+      "name": "ATTACH"
+    },
+    "ASSET_ACTION": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "ASSET_ACTION"
+    },
+    "SECTION": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#939393",
+      "originalValue": "#939393",
+      "name": "SECTION"
+    },
+    "SERVICE_REQUEST": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "SERVICE_REQUEST"
+    },
+    "ORDERS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "ORDERS"
+    },
+    "PROPAGATION_POLICY": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "PROPAGATION_POLICY"
+    },
+    "BUDGET": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "BUDGET"
+    },
+    "REPORT_TYPE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#3BA755",
+      "originalValue": "#3BA755",
+      "name": "REPORT_TYPE"
+    },
+    "PAST_CHAT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "PAST_CHAT"
+    },
+    "CRYPTO_TRANSACTION_ENVELOPE_CHANGE_LOG": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#084968",
+      "originalValue": "#084968",
+      "name": "CRYPTO_TRANSACTION_ENVELOPE_CHANGE_LOG"
+    },
+    "FEEDBACK": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "FEEDBACK"
+    },
+    "ACTION_LIST_COMPONENT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "ACTION_LIST_COMPONENT"
+    },
+    "OPPORTUNITY_SPLITS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "OPPORTUNITY_SPLITS"
+    },
+    "LOCATION_PERMIT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "LOCATION_PERMIT"
+    },
+    "MESSAGING_USER": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "MESSAGING_USER"
+    },
+    "FILTER_CRITERIA": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "FILTER_CRITERIA"
+    },
+    "TAX_POLICY": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#22683E",
+      "originalValue": "#22683E",
+      "name": "TAX_POLICY"
+    },
+    "TRAILHEAD": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#032D60",
+      "originalValue": "#032D60",
+      "name": "TRAILHEAD"
+    },
+    "ENTITLEMENTS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#9050E9",
+      "originalValue": "#9050E9",
+      "name": "ENTITLEMENTS"
+    },
+    "CHECKOUT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#22683E",
+      "originalValue": "#22683E",
+      "name": "CHECKOUT"
+    },
+    "FORMULA": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "FORMULA"
+    },
+    "CASE_LOG_A_CALL": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "CASE_LOG_A_CALL"
+    },
+    "SHIFT_PATTERN_ENTRY": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF538A",
+      "originalValue": "#FF538A",
+      "name": "SHIFT_PATTERN_ENTRY"
+    },
+    "THANKS_LOADING": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#939393",
+      "originalValue": "#939393",
+      "name": "THANKS_LOADING"
+    },
+    "JOB_FAMILY": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "JOB_FAMILY"
+    },
+    "SERVICE_APPOINTMENT_CAPACITY_USAGE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "SERVICE_APPOINTMENT_CAPACITY_USAGE"
+    },
+    "CHANNEL_PROGRAM_LEVELS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "CHANNEL_PROGRAM_LEVELS"
+    },
+    "LETTERHEAD": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "LETTERHEAD"
+    },
+    "PROMOTIONS_WORKSPACE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#22683E",
+      "originalValue": "#22683E",
+      "name": "PROMOTIONS_WORKSPACE"
+    },
+    "NFT_SETTINGS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF538A",
+      "originalValue": "#FF538A",
+      "name": "NFT_SETTINGS"
+    },
+    "ASSET_HIERARCHY": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "ASSET_HIERARCHY"
+    },
+    "EMAIL_CHATTER": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "EMAIL_CHATTER"
+    },
+    "DOCUMENT_REFERENCE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "DOCUMENT_REFERENCE"
+    },
+    "ANNOUNCEMENT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "ANNOUNCEMENT"
+    },
+    "FIELD_SALES": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#9050E9",
+      "originalValue": "#9050E9",
+      "name": "FIELD_SALES"
+    },
+    "BOT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "BOT"
+    },
+    "MACROS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "MACROS"
+    },
+    "DASHBOARD_EA": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#5867E8",
+      "originalValue": "#5867E8",
+      "name": "DASHBOARD_EA"
+    },
+    "JOB_PROFILE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF538A",
+      "originalValue": "#FF538A",
+      "name": "JOB_PROFILE"
+    },
+    "STEPS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "STEPS"
+    },
+    "SNIPPET_ALT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "SNIPPET_ALT"
+    },
+    "ASSET_RELATIONSHIP": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "ASSET_RELATIONSHIP"
+    },
+    "HIGH_VELOCITY_SALES": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "HIGH_VELOCITY_SALES"
+    },
+    "BRAND": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#5867E8",
+      "originalValue": "#5867E8",
+      "name": "BRAND"
+    },
+    "HISTORICAL_ADHERENCE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "HISTORICAL_ADHERENCE"
+    },
+    "VISITS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "VISITS"
+    },
+    "EINSTEIN_REPLIES": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF538A",
+      "originalValue": "#FF538A",
+      "name": "EINSTEIN_REPLIES"
+    },
+    "COACHING": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF538A",
+      "originalValue": "#FF538A",
+      "name": "COACHING"
+    },
+    "RECORD_LOOKUP": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF538A",
+      "originalValue": "#FF538A",
+      "name": "RECORD_LOOKUP"
+    },
+    "PRODUCT_SERVICE_CAMPAIGN_ITEM": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "PRODUCT_SERVICE_CAMPAIGN_ITEM"
+    },
+    "SCHEDULING_CONSTRAINT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF538A",
+      "originalValue": "#FF538A",
+      "name": "SCHEDULING_CONSTRAINT"
+    },
+    "LIGHTNING_COMPONENT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#939393",
+      "originalValue": "#939393",
+      "name": "LIGHTNING_COMPONENT"
+    },
+    "SEARCH": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "SEARCH"
+    },
+    "CONNECTED_APPS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#5867E8",
+      "originalValue": "#5867E8",
+      "name": "CONNECTED_APPS"
+    },
+    "SWARM_REQUEST": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF538A",
+      "originalValue": "#FF538A",
+      "name": "SWARM_REQUEST"
+    },
+    "WORK_TYPE_GROUP": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "WORK_TYPE_GROUP"
+    },
+    "EDUCATION": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "EDUCATION"
+    },
+    "WORK_TYPE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "WORK_TYPE"
+    },
+    "TRAVEL_MODE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#3BA755",
+      "originalValue": "#3BA755",
+      "name": "TRAVEL_MODE"
+    },
+    "ENVIRONMENT_HUB": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "ENVIRONMENT_HUB"
+    },
+    "IDENTIFIER": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "IDENTIFIER"
+    },
+    "CMS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#3BA755",
+      "originalValue": "#3BA755",
+      "name": "CMS"
+    },
+    "CALL_COACHING": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "CALL_COACHING"
+    },
+    "SALESFORCE_CMS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "SALESFORCE_CMS"
+    },
+    "PRICE_SHEET": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#3BA755",
+      "originalValue": "#3BA755",
+      "name": "PRICE_SHEET"
+    },
+    "THANKS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF538A",
+      "originalValue": "#FF538A",
+      "name": "THANKS"
+    },
+    "SERVICE_TERRITORY_MEMBER": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#5867E8",
+      "originalValue": "#5867E8",
+      "name": "SERVICE_TERRITORY_MEMBER"
+    },
+    "WORK_FORECAST": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "WORK_FORECAST"
+    },
+    "CRYPTO_PRODUCT_CATEGORY_WALLET_ROLE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#056764",
+      "originalValue": "#056764",
+      "name": "CRYPTO_PRODUCT_CATEGORY_WALLET_ROLE"
+    },
+    "HOLIDAY_OPERATING_HOURS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "HOLIDAY_OPERATING_HOURS"
+    },
+    "USER_ROLE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#3BA755",
+      "originalValue": "#3BA755",
+      "name": "USER_ROLE"
+    },
+    "OBSERVATION_COMPONENT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#5867E8",
+      "originalValue": "#5867E8",
+      "name": "OBSERVATION_COMPONENT"
+    },
+    "ORCHESTRATOR": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "ORCHESTRATOR"
+    },
+    "WORK_CAPACITY_USAGE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "WORK_CAPACITY_USAGE"
+    },
+    "RECORD_CREATE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF538A",
+      "originalValue": "#FF538A",
+      "name": "RECORD_CREATE"
+    },
+    "CAMPAIGN_MEMBERS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "CAMPAIGN_MEMBERS"
+    },
+    "RETAIL_BANKING": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "RETAIL_BANKING"
+    },
+    "PRODUCT_SERVICE_CAMPAIGN": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "PRODUCT_SERVICE_CAMPAIGN"
+    },
+    "PORTAL_ROLES": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "PORTAL_ROLES"
+    },
+    "CALIBRATION": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "CALIBRATION"
+    },
+    "ANSWER_PUBLIC": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "ANSWER_PUBLIC"
+    },
+    "DISPLAY_TEXT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#939393",
+      "originalValue": "#939393",
+      "name": "DISPLAY_TEXT"
+    },
+    "PRODUCT_CONSUMED_STATE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "PRODUCT_CONSUMED_STATE"
+    },
+    "BUDGET_CATEGORY_VALUE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "BUDGET_CATEGORY_VALUE"
+    },
+    "UNMATCHED": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "UNMATCHED"
+    },
+    "PARTNERS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "PARTNERS"
+    },
+    "EMAIL_IQ": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#5867E8",
+      "deprecated": true,
+      "originalValue": "#5867E8",
+      "name": "EMAIL_IQ"
+    },
+    "MULESOFT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "MULESOFT"
+    },
+    "SERVICE_CREW": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "SERVICE_CREW"
+    },
+    "PAYMENT_GATEWAY": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#056764",
+      "originalValue": "#056764",
+      "name": "PAYMENT_GATEWAY"
+    },
+    "VOICE_CALL": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#3BA755",
+      "originalValue": "#3BA755",
+      "name": "VOICE_CALL"
+    },
+    "CANCEL_CHECKOUT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#939393",
+      "originalValue": "#939393",
+      "name": "CANCEL_CHECKOUT"
+    },
+    "ASSET_WARRANTY": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "ASSET_WARRANTY"
+    },
+    "RESOURCE_CAPACITY": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#3BA755",
+      "originalValue": "#3BA755",
+      "name": "RESOURCE_CAPACITY"
+    },
+    "SETUP_MODAL": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "SETUP_MODAL"
+    },
+    "CHANNEL_PROGRAMS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "CHANNEL_PROGRAMS"
+    },
+    "QUIP": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "QUIP"
+    },
+    "QUIP_SHEET": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#3BA755",
+      "originalValue": "#3BA755",
+      "name": "QUIP_SHEET"
+    },
+    "TIMESLOT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "TIMESLOT"
+    },
+    "LIVE_CHAT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "LIVE_CHAT"
+    },
+    "SERVICE_REQUEST_DETAIL": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "SERVICE_REQUEST_DETAIL"
+    },
+    "MED_REC_STATEMENT_RECOMMENDATION": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#5867E8",
+      "originalValue": "#5867E8",
+      "name": "MED_REC_STATEMENT_RECOMMENDATION"
+    },
+    "JOB_POSITION": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "JOB_POSITION"
+    },
+    "SOBJECT_COLLECTION": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "SOBJECT_COLLECTION"
+    },
+    "USER": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "USER"
+    },
+    "CLIENT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "CLIENT"
+    },
+    "SCREEN": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "SCREEN"
+    },
+    "PORTAL": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#3BA755",
+      "originalValue": "#3BA755",
+      "name": "PORTAL"
+    },
+    "PARTNER_FUND_REQUEST": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "PARTNER_FUND_REQUEST"
+    },
+    "ASSET_AUDIT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#9050E9",
+      "originalValue": "#9050E9",
+      "name": "ASSET_AUDIT"
+    },
+    "RESOURCE_PREFERENCE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#3BA755",
+      "originalValue": "#3BA755",
+      "name": "RESOURCE_PREFERENCE"
+    },
+    "FIRST_NON_EMPTY": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF538A",
+      "originalValue": "#FF538A",
+      "name": "FIRST_NON_EMPTY"
+    },
+    "CUSTOMER_360": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#032D60",
+      "originalValue": "#032D60",
+      "name": "CUSTOMER_360"
+    },
+    "EMPLOYEE_JOB": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "EMPLOYEE_JOB"
+    },
+    "RESOURCE_ABSENCE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#3BA755",
+      "originalValue": "#3BA755",
+      "name": "RESOURCE_ABSENCE"
+    },
+    "TEXT_TEMPLATE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "TEXT_TEMPLATE"
+    },
+    "ENTITLEMENT_TEMPLATE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#5867E8",
+      "originalValue": "#5867E8",
+      "name": "ENTITLEMENT_TEMPLATE"
+    },
+    "LIGHTNING_USAGE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#5867E8",
+      "originalValue": "#5867E8",
+      "name": "LIGHTNING_USAGE"
+    },
+    "PRODUCT_TRANSFER_STATE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "PRODUCT_TRANSFER_STATE"
+    },
+    "MEDICATION_DISPENSE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "MEDICATION_DISPENSE"
+    },
+    "ENTITLEMENT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#5867E8",
+      "originalValue": "#5867E8",
+      "name": "ENTITLEMENT"
+    },
+    "EMPTY": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#939393",
+      "originalValue": "#939393",
+      "name": "EMPTY"
+    },
+    "TEXT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#939393",
+      "originalValue": "#939393",
+      "name": "TEXT"
+    },
+    "DELEGATED_ACCOUNT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#22683E",
+      "originalValue": "#22683E",
+      "name": "DELEGATED_ACCOUNT"
+    },
+    "FULFILLMENT_ORDER": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#939393",
+      "originalValue": "#939393",
+      "name": "FULFILLMENT_ORDER"
+    },
+    "CASE_EMAIL": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "CASE_EMAIL"
+    },
+    "ACCOUNT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#5867E8",
+      "originalValue": "#5867E8",
+      "name": "ACCOUNT"
+    },
+    "COUPON_CODES": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#22683E",
+      "originalValue": "#22683E",
+      "name": "COUPON_CODES"
+    },
+    "ASSIGNMENT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "ASSIGNMENT"
+    },
+    "WEALTH_MANAGEMENT_CONSOLE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "WEALTH_MANAGEMENT_CONSOLE"
+    },
+    "TASK2": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#3BA755",
+      "originalValue": "#3BA755",
+      "name": "TASK2"
+    },
+    "PATIENT_MEDICATION_DOSAGE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "PATIENT_MEDICATION_DOSAGE"
+    },
+    "CODE_PLAYGROUND": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "CODE_PLAYGROUND"
+    },
+    "SOCIAL": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF538A",
+      "originalValue": "#FF538A",
+      "name": "SOCIAL"
+    },
+    "ENDORSEMENT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#5867E8",
+      "originalValue": "#5867E8",
+      "name": "ENDORSEMENT"
+    },
+    "FOLDER": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#5867E8",
+      "originalValue": "#5867E8",
+      "name": "FOLDER"
+    },
+    "SERVICE_CREW_MEMBER": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#5867E8",
+      "originalValue": "#5867E8",
+      "name": "SERVICE_CREW_MEMBER"
+    },
+    "VARIATION_ATTRIBUTE_SETUP": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#22683E",
+      "originalValue": "#22683E",
+      "name": "VARIATION_ATTRIBUTE_SETUP"
+    },
+    "CONNECT_WALLET": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#B60554",
+      "originalValue": "#B60554",
+      "name": "CONNECT_WALLET"
+    },
+    "FLOW": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "FLOW"
+    },
+    "RECIPE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "RECIPE"
+    },
+    "EXPENSE_REPORT_ENTRY": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#2F2CB7",
+      "originalValue": "#2F2CB7",
+      "name": "EXPENSE_REPORT_ENTRY"
+    },
+    "EMPLOYEE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "EMPLOYEE"
+    },
+    "OMNI_SUPERVISOR": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#5867E8",
+      "originalValue": "#5867E8",
+      "name": "OMNI_SUPERVISOR"
+    },
+    "CAPACITY_PLAN": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF538A",
+      "originalValue": "#FF538A",
+      "name": "CAPACITY_PLAN"
+    },
+    "ASSET_OBJECT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "ASSET_OBJECT"
+    },
+    "PRODUCT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#9050E9",
+      "originalValue": "#9050E9",
+      "name": "PRODUCT"
+    },
+    "CRYPTO_TRANSACTION_ENVELOPE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#056764",
+      "originalValue": "#056764",
+      "name": "CRYPTO_TRANSACTION_ENVELOPE"
+    },
+    "TOPIC": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "TOPIC"
+    },
+    "PRODUCT_REQUIRED": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF538A",
+      "originalValue": "#FF538A",
+      "name": "PRODUCT_REQUIRED"
+    },
+    "DYNAMIC_RECORD_CHOICE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "DYNAMIC_RECORD_CHOICE"
+    },
+    "AGGREGATION_POLICY": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "AGGREGATION_POLICY"
+    },
+    "WARRANTY_TERM": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "WARRANTY_TERM"
+    },
+    "PROCESS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "PROCESS"
+    },
+    "SWARM_SESSION": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF538A",
+      "originalValue": "#FF538A",
+      "name": "SWARM_SESSION"
+    },
+    "PEOPLE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "PEOPLE"
+    },
+    "MEDICATION": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#3BA755",
+      "originalValue": "#3BA755",
+      "name": "MEDICATION"
+    },
+    "REWARD": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF538A",
+      "originalValue": "#FF538A",
+      "name": "REWARD"
+    },
+    "EMPLOYEE_CONTACT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "EMPLOYEE_CONTACT"
+    },
+    "BUNDLE_POLICY": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "BUNDLE_POLICY"
+    },
+    "PERFORMANCE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "PERFORMANCE"
+    },
+    "PROMOTIONS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#22683E",
+      "originalValue": "#22683E",
+      "name": "PROMOTIONS"
+    },
+    "CASE_COMMENT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "CASE_COMMENT"
+    },
+    "PRICE_BOOK_ENTRIES": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#22683E",
+      "originalValue": "#22683E",
+      "name": "PRICE_BOOK_ENTRIES"
+    },
+    "SALES_CHANNEL": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "SALES_CHANNEL"
+    },
+    "APEX_PLUGIN": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "APEX_PLUGIN"
+    },
+    "CAMPAIGN": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "CAMPAIGN"
+    },
+    "CONTACT_REQUEST": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "CONTACT_REQUEST"
+    },
+    "BUSINESS_HOURS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#3BA755",
+      "originalValue": "#3BA755",
+      "name": "BUSINESS_HOURS"
+    },
+    "EVERNOTE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#3BA755",
+      "originalValue": "#3BA755",
+      "name": "EVERNOTE"
+    },
+    "VARIATION_PRODUCTS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#22683E",
+      "originalValue": "#22683E",
+      "name": "VARIATION_PRODUCTS"
+    },
+    "TRAILHEAD_ALT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#032D60",
+      "originalValue": "#032D60",
+      "name": "TRAILHEAD_ALT"
+    },
+    "SERVICE_TERRITORY": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#5867E8",
+      "originalValue": "#5867E8",
+      "name": "SERVICE_TERRITORY"
+    },
+    "CUSTOMER_LIFECYCLE_ANALYTICS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#5867E8",
+      "originalValue": "#5867E8",
+      "name": "CUSTOMER_LIFECYCLE_ANALYTICS"
+    },
+    "CODE_SET": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "CODE_SET"
+    },
+    "CASE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "CASE"
+    },
+    "SLACK": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#4A154B",
+      "originalValue": "#4A154B",
+      "name": "SLACK"
+    },
+    "CURRENCY": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#939393",
+      "originalValue": "#939393",
+      "name": "CURRENCY"
+    },
+    "RECORD": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#3BA755",
+      "originalValue": "#3BA755",
+      "name": "RECORD"
+    },
+    "CODE_SET_BUNDLE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "CODE_SET_BUNDLE"
+    },
+    "QUEUE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "QUEUE"
+    },
+    "SCHEDULE_OBJECTIVE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "SCHEDULE_OBJECTIVE"
+    },
+    "CONTRACT_LINE_ITEM": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#3BA755",
+      "originalValue": "#3BA755",
+      "name": "CONTRACT_LINE_ITEM"
+    },
+    "SKILL_ENTITY": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#5867E8",
+      "originalValue": "#5867E8",
+      "name": "SKILL_ENTITY"
+    },
+    "FUNDING_AWARD_ADJUSTMENT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "FUNDING_AWARD_ADJUSTMENT"
+    },
+    "SKILL": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "SKILL"
+    },
+    "OPERATING_HOURS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "OPERATING_HOURS"
+    },
+    "CRYPTO_PRODUCT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#9050E9",
+      "originalValue": "#9050E9",
+      "name": "CRYPTO_PRODUCT"
+    },
+    "CUSTOM": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#939393",
+      "originalValue": "#939393",
+      "name": "CUSTOM"
+    },
+    "RELATED_LIST": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "RELATED_LIST"
+    },
+    "BOT_TRAINING": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "BOT_TRAINING"
+    },
+    "CASE_CHANGE_STATUS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "CASE_CHANGE_STATUS"
+    },
+    "INSURANCE_CONSOLE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "INSURANCE_CONSOLE"
+    },
+    "DASHBOARD_COMPONENT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#5867E8",
+      "originalValue": "#5867E8",
+      "name": "DASHBOARD_COMPONENT"
+    },
+    "INCIDENT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#B60554",
+      "originalValue": "#B60554",
+      "name": "INCIDENT"
+    },
+    "CONTRACT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#3BA755",
+      "originalValue": "#3BA755",
+      "name": "CONTRACT"
+    },
+    "SOBJECT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#939393",
+      "originalValue": "#939393",
+      "name": "SOBJECT"
+    },
+    "SALES_CADENCE_TARGET": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "SALES_CADENCE_TARGET"
+    },
+    "PHOTO": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#939393",
+      "originalValue": "#939393",
+      "name": "PHOTO"
+    },
+    "APPS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "APPS"
+    },
+    "TIMESHEET": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#5867E8",
+      "originalValue": "#5867E8",
+      "name": "TIMESHEET"
+    },
+    "DRAFTS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "DRAFTS"
+    },
+    "OUTCOME": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "OUTCOME"
+    },
+    "DISCOUNTS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#22683E",
+      "originalValue": "#22683E",
+      "name": "DISCOUNTS"
+    },
+    "WORK_ORDER_ITEM": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "WORK_ORDER_ITEM"
+    },
+    "PRICEBOOK": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#9050E9",
+      "originalValue": "#9050E9",
+      "name": "PRICEBOOK"
+    },
+    "SCAN_CARD": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "SCAN_CARD"
+    },
+    "NOTE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "NOTE"
+    },
+    "SERIALIZED_PRODUCT_TRANSACTION": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "SERIALIZED_PRODUCT_TRANSACTION"
+    },
+    "SHIFT_PATTERN": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF538A",
+      "originalValue": "#FF538A",
+      "name": "SHIFT_PATTERN"
+    },
+    "BUYER_GROUP": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#22683E",
+      "originalValue": "#22683E",
+      "name": "BUYER_GROUP"
+    },
+    "PRODUCT_QUANTITY_RULES": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#22683E",
+      "originalValue": "#22683E",
+      "name": "PRODUCT_QUANTITY_RULES"
+    },
+    "MEDICATION_RECONCILIATION": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "MEDICATION_RECONCILIATION"
+    },
+    "PROCEDURE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "PROCEDURE"
+    },
+    "OPPORTUNITY": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "OPPORTUNITY"
+    },
+    "NEWS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#5867E8",
+      "originalValue": "#5867E8",
+      "name": "NEWS"
+    },
+    "SORT_POLICY": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "SORT_POLICY"
+    },
+    "DISPLAY_RICH_TEXT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#939393",
+      "originalValue": "#939393",
+      "name": "DISPLAY_RICH_TEXT"
+    },
+    "STRATEGY": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#3BA755",
+      "originalValue": "#3BA755",
+      "name": "STRATEGY"
+    },
+    "CALL_HISTORY": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "CALL_HISTORY"
+    },
+    "WEBCART": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#22683E",
+      "originalValue": "#22683E",
+      "name": "WEBCART"
+    },
+    "SERIALIZED_PRODUCT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "SERIALIZED_PRODUCT"
+    },
+    "TAX_RATE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#22683E",
+      "originalValue": "#22683E",
+      "name": "TAX_RATE"
+    },
+    "REPORT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "REPORT"
+    },
+    "CUSTOMER_WORKSPACE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#22683E",
+      "originalValue": "#22683E",
+      "name": "CUSTOMER_WORKSPACE"
+    },
+    "GROUPS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "GROUPS"
+    },
+    "DATA_MODEL": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF538A",
+      "originalValue": "#FF538A",
+      "name": "DATA_MODEL"
+    },
+    "DASHBOARD": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF538A",
+      "originalValue": "#FF538A",
+      "name": "DASHBOARD"
+    },
+    "GENERIC_LOADING": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#939393",
+      "originalValue": "#939393",
+      "name": "GENERIC_LOADING"
+    },
+    "NUMBER_INPUT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#939393",
+      "originalValue": "#939393",
+      "name": "NUMBER_INPUT"
+    },
+    "TOGGLE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#939393",
+      "originalValue": "#939393",
+      "name": "TOGGLE"
+    },
+    "ADDRESS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#3BA755",
+      "originalValue": "#3BA755",
+      "name": "ADDRESS"
+    },
+    "PRICE_BOOKS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#22683E",
+      "originalValue": "#22683E",
+      "name": "PRICE_BOOKS"
+    },
+    "ENTITY_MILESTONE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "ENTITY_MILESTONE"
+    },
+    "CONTRACT_LINE_OUTCOME": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#22683E",
+      "originalValue": "#22683E",
+      "name": "CONTRACT_LINE_OUTCOME"
+    },
+    "WEALTH_MANAGEMENT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "WEALTH_MANAGEMENT"
+    },
+    "CUSTOMERS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "CUSTOMERS"
+    },
+    "DISCLOSURE_AND_COMPLIANCE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "DISCLOSURE_AND_COMPLIANCE"
+    },
+    "STORY": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "STORY"
+    },
+    "SERVICE_APPOINTMENT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#5867E8",
+      "originalValue": "#5867E8",
+      "name": "SERVICE_APPOINTMENT"
+    },
+    "MAINTENANCE_PLAN": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "MAINTENANCE_PLAN"
+    },
+    "CONTRACT_LINE_OUTCOME_DATA": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#22683E",
+      "originalValue": "#22683E",
+      "name": "CONTRACT_LINE_OUTCOME_DATA"
+    },
+    "DATA_INTEGRATION_HUB": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "DATA_INTEGRATION_HUB"
+    },
+    "PERSON_NAME": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#5867E8",
+      "originalValue": "#5867E8",
+      "name": "PERSON_NAME"
+    },
+    "WORK_PLAN_TEMPLATE_ENTRY": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "WORK_PLAN_TEMPLATE_ENTRY"
+    },
+    "HIERARCHY": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "HIERARCHY"
+    },
+    "CUSTOM_COMPONENT_TASK": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#5867E8",
+      "originalValue": "#5867E8",
+      "name": "CUSTOM_COMPONENT_TASK"
+    },
+    "PARTNER_MARKETING_BUDGET": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "PARTNER_MARKETING_BUDGET"
+    },
+    "ASSET_ACTION_SOURCE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "ASSET_ACTION_SOURCE"
+    },
+    "SKILL_REQUIREMENT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "SKILL_REQUIREMENT"
+    },
+    "FILTER_CRITERIA_RULE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "FILTER_CRITERIA_RULE"
+    },
+    "LOCATION": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#3BA755",
+      "originalValue": "#3BA755",
+      "name": "LOCATION"
+    },
+    "PROMOTION_TIERS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#22683E",
+      "originalValue": "#22683E",
+      "name": "PROMOTION_TIERS"
+    },
+    "RADIO_BUTTON": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#939393",
+      "originalValue": "#939393",
+      "name": "RADIO_BUTTON"
+    },
+    "AVATAR_LOADING": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#939393",
+      "originalValue": "#939393",
+      "name": "AVATAR_LOADING"
+    },
+    "ARTICLE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "ARTICLE"
+    },
+    "LEARNER_PROGRAM": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "LEARNER_PROGRAM"
+    },
+    "INVOCABLE_ACTION": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "INVOCABLE_ACTION"
+    },
+    "DEVICE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#5867E8",
+      "originalValue": "#5867E8",
+      "name": "DEVICE"
+    },
+    "PROPOSITION": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "PROPOSITION"
+    },
+    "SNIPPETS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "SNIPPETS"
+    },
+    "CUSTOMER_PORTAL_USERS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "CUSTOMER_PORTAL_USERS"
+    },
+    "ACTIONS_AND_BUTTONS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "ACTIONS_AND_BUTTONS"
+    },
+    "RECORD_UPDATE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF538A",
+      "originalValue": "#FF538A",
+      "name": "RECORD_UPDATE"
+    },
+    "SHIFT_TYPE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF538A",
+      "originalValue": "#FF538A",
+      "name": "SHIFT_TYPE"
+    },
+    "WATER": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#5867E8",
+      "originalValue": "#5867E8",
+      "name": "WATER"
+    },
+    "LOG_A_CALL": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "LOG_A_CALL"
+    },
+    "CRYPTO_WALLET": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#22683E",
+      "originalValue": "#22683E",
+      "name": "CRYPTO_WALLET"
+    },
+    "CRYPTO_WALLET_GROUP": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "CRYPTO_WALLET_GROUP"
+    },
+    "QUOTES": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#3BA755",
+      "originalValue": "#3BA755",
+      "name": "QUOTES"
+    },
+    "QUESTION_FEED": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "QUESTION_FEED"
+    },
+    "KANBAN": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "KANBAN"
+    },
+    "WORK_PLAN": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "WORK_PLAN"
+    },
+    "SHIFT_TEMPLATE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF538A",
+      "originalValue": "#FF538A",
+      "name": "SHIFT_TEMPLATE"
+    },
+    "MERGE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "MERGE"
+    },
+    "EXPENSE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#2F2CB7",
+      "originalValue": "#2F2CB7",
+      "name": "EXPENSE"
+    },
+    "DATASET": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#9050E9",
+      "originalValue": "#9050E9",
+      "name": "DATASET"
+    },
+    "SHIFT_PREFERENCE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF538A",
+      "originalValue": "#FF538A",
+      "name": "SHIFT_PREFERENCE"
+    },
+    "PRODUCT_CONSUMED": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "PRODUCT_CONSUMED"
+    },
+    "CANVAS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#939393",
+      "originalValue": "#939393",
+      "name": "CANVAS"
+    },
+    "FORECASTS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#3BA755",
+      "originalValue": "#3BA755",
+      "name": "FORECASTS"
+    },
+    "RELATIONSHIP": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "RELATIONSHIP"
+    },
+    "TOUR": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#9050E9",
+      "originalValue": "#9050E9",
+      "name": "TOUR"
+    },
+    "SERVICE_RESOURCE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#5867E8",
+      "originalValue": "#5867E8",
+      "name": "SERVICE_RESOURCE"
+    },
+    "FILTER": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#2F2CB7",
+      "originalValue": "#2F2CB7",
+      "name": "FILTER"
+    },
+    "SALES_PATH": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "SALES_PATH"
+    },
+    "SHIFT_SCHEDULING_OPERATION": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF538A",
+      "originalValue": "#FF538A",
+      "name": "SHIFT_SCHEDULING_OPERATION"
+    },
+    "EVENTS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "EVENTS"
+    },
+    "DATA_MAPPING": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#032D60",
+      "originalValue": "#032D60",
+      "name": "DATA_MAPPING"
+    },
+    "SMS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#3BA755",
+      "originalValue": "#3BA755",
+      "name": "SMS"
+    },
+    "RTC_PRESENCE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "RTC_PRESENCE"
+    },
+    "AVATAR": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "AVATAR"
+    },
+    "RECORD_DELETE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF538A",
+      "originalValue": "#FF538A",
+      "name": "RECORD_DELETE"
+    },
+    "SOLUTION": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#3BA755",
+      "originalValue": "#3BA755",
+      "name": "SOLUTION"
+    },
+    "NFT_STUDIO": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#5867E8",
+      "originalValue": "#5867E8",
+      "name": "NFT_STUDIO"
+    },
+    "AGENT_HOME": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#032D60",
+      "originalValue": "#032D60",
+      "name": "AGENT_HOME"
+    },
+    "PARTNER_FUND_CLAIM": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "PARTNER_FUND_CLAIM"
+    },
+    "INDIVIDUAL": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "INDIVIDUAL"
+    },
+    "CUSTOM_NOTIFICATION": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "CUSTOM_NOTIFICATION"
+    },
+    "CONTRACT_PAYMENT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#9050E9",
+      "originalValue": "#9050E9",
+      "name": "CONTRACT_PAYMENT"
+    },
+    "DATE_INPUT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#939393",
+      "originalValue": "#939393",
+      "name": "DATE_INPUT"
+    },
+    "CATALOG": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#22683E",
+      "originalValue": "#22683E",
+      "name": "CATALOG"
+    },
+    "TEMPLATE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "TEMPLATE"
+    },
+    "ACTIVATION_TARGET": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#CB65FF",
+      "originalValue": "#CB65FF",
+      "name": "ACTIVATION_TARGET"
+    },
+    "SELLING_MODEL": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#9050E9",
+      "originalValue": "#9050E9",
+      "name": "SELLING_MODEL"
+    },
+    "SHIPMENT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#5867E8",
+      "originalValue": "#5867E8",
+      "name": "SHIPMENT"
+    },
+    "BUDGET_ALLOCATION": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "BUDGET_ALLOCATION"
+    },
+    "RECORD_SIGNATURE_TASK": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF538A",
+      "originalValue": "#FF538A",
+      "name": "RECORD_SIGNATURE_TASK"
+    },
+    "EVENT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF538A",
+      "originalValue": "#FF538A",
+      "name": "EVENT"
+    },
+    "INSURANCE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "INSURANCE"
+    },
+    "LIVE_CHAT_VISITOR": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "LIVE_CHAT_VISITOR"
+    },
+    "TEXTAREA": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#939393",
+      "originalValue": "#939393",
+      "name": "TEXTAREA"
+    },
+    "WORK_STEP": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "WORK_STEP"
+    },
+    "PICKLIST_TYPE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#939393",
+      "originalValue": "#939393",
+      "name": "PICKLIST_TYPE"
+    },
+    "SURVEY": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "SURVEY"
+    },
+    "LINK": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "LINK"
+    },
+    "MESSAGING_SESSION": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "MESSAGING_SESSION"
+    },
+    "VIDEO": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#9050E9",
+      "originalValue": "#9050E9",
+      "name": "VIDEO"
+    },
+    "LIST_EMAIL": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#939393",
+      "originalValue": "#939393",
+      "name": "LIST_EMAIL"
+    },
+    "MED_REC_RECOMMENDATION": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "MED_REC_RECOMMENDATION"
+    },
+    "CRYPTO_WALLET_GROUP_ITEM": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#9050E9",
+      "originalValue": "#9050E9",
+      "name": "CRYPTO_WALLET_GROUP_ITEM"
+    },
+    "RECYCLE_BIN": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "RECYCLE_BIN"
+    },
+    "DOCUMENT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#939393",
+      "originalValue": "#939393",
+      "name": "DOCUMENT"
+    },
+    "PRODUCT_TRANSFER": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "PRODUCT_TRANSFER"
+    },
+    "INSTORE_LOCATIONS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "INSTORE_LOCATIONS"
+    },
+    "RECENT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "RECENT"
+    },
+    "PRACTITIONER_ROLE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF538A",
+      "originalValue": "#FF538A",
+      "name": "PRACTITIONER_ROLE"
+    },
+    "PASSWORD": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#939393",
+      "originalValue": "#939393",
+      "name": "PASSWORD"
+    },
+    "DATASHARE_TARGET": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF538A",
+      "originalValue": "#FF538A",
+      "name": "DATASHARE_TARGET"
+    },
+    "EXPENSE_REPORT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#2F2CB7",
+      "originalValue": "#2F2CB7",
+      "name": "EXPENSE_REPORT"
+    },
+    "BRANCH_MERGE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF538A",
+      "originalValue": "#FF538A",
+      "name": "BRANCH_MERGE"
+    },
+    "AI_ACCELERATOR_CARD": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "AI_ACCELERATOR_CARD"
+    },
+    "INSIGHTS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#CB65FF",
+      "originalValue": "#CB65FF",
+      "name": "INSIGHTS"
+    },
+    "BUDGET_PERIOD": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#9602C7",
+      "originalValue": "#9602C7",
+      "name": "BUDGET_PERIOD"
+    },
+    "MARKET": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#22683E",
+      "originalValue": "#22683E",
+      "name": "MARKET"
+    },
+    "DROPBOX": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "DROPBOX"
+    },
+    "UNIFIED_HEALTH_SCORE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#5867E8",
+      "originalValue": "#5867E8",
+      "name": "UNIFIED_HEALTH_SCORE"
+    },
+    "BILL_OF_MATERIALS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "BILL_OF_MATERIALS"
+    },
+    "CALCULATED_INSIGHTS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "CALCULATED_INSIGHTS"
+    },
+    "EMPLOYEE_JOB_POSITION": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "EMPLOYEE_JOB_POSITION"
+    },
+    "FILE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#939393",
+      "originalValue": "#939393",
+      "name": "FILE"
+    },
+    "CURRENCY_INPUT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#939393",
+      "originalValue": "#939393",
+      "name": "CURRENCY_INPUT"
+    },
+    "DATA_TRANSFORMS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#5867E8",
+      "originalValue": "#5867E8",
+      "name": "DATA_TRANSFORMS"
+    },
+    "VARIABLE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "VARIABLE"
+    },
+    "TEAM_MEMBER": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "TEAM_MEMBER"
+    },
+    "PRICING_WORKSPACE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#22683E",
+      "originalValue": "#22683E",
+      "name": "PRICING_WORKSPACE"
+    },
+    "AGENT_SESSION": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "AGENT_SESSION"
+    },
+    "GUIDANCE_CENTER": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#5867E8",
+      "originalValue": "#5867E8",
+      "name": "GUIDANCE_CENTER"
+    },
+    "CRYPTO_CATEGORY_WALLET_GROUP": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#B60554",
+      "originalValue": "#B60554",
+      "name": "CRYPTO_CATEGORY_WALLET_GROUP"
+    },
+    "GROUP_LOADING": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#939393",
+      "originalValue": "#939393",
+      "name": "GROUP_LOADING"
+    },
+    "LEAD": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "LEAD"
+    },
+    "EMAIL": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#939393",
+      "originalValue": "#939393",
+      "name": "EMAIL"
+    },
+    "SERVICE_CONTRACT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#5867E8",
+      "originalValue": "#5867E8",
+      "name": "SERVICE_CONTRACT"
+    },
+    "DECISION": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "DECISION"
+    },
+    "PROMOTION_SEGMENTS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#22683E",
+      "originalValue": "#22683E",
+      "name": "PROMOTION_SEGMENTS"
+    },
+    "DURATION_DOWNSCALE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "DURATION_DOWNSCALE"
+    },
+    "SNIPPET": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#5867E8",
+      "originalValue": "#5867E8",
+      "name": "SNIPPET"
+    },
+    "ENTITLEMENT_PROCESS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#5867E8",
+      "originalValue": "#5867E8",
+      "name": "ENTITLEMENT_PROCESS"
+    },
+    "CONTACT_LIST": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#5867E8",
+      "originalValue": "#5867E8",
+      "name": "CONTACT_LIST"
+    },
+    "PLANOGRAM": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "PLANOGRAM"
+    },
+    "ACTIVATIONS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#9050E9",
+      "originalValue": "#9050E9",
+      "name": "ACTIVATIONS"
+    },
+    "SCHEDULING_POLICY": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF538A",
+      "originalValue": "#FF538A",
+      "name": "SCHEDULING_POLICY"
+    },
+    "CHANNEL_PROGRAM_HISTORY": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "CHANNEL_PROGRAM_HISTORY"
+    },
+    "QUESTION_BEST": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "QUESTION_BEST"
+    },
+    "COLLECTION_VARIABLE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "COLLECTION_VARIABLE"
+    },
+    "PROCEDURE_DETAIL": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "PROCEDURE_DETAIL"
+    },
+    "SALES_VALUE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "SALES_VALUE"
+    },
+    "KNOWLEDGE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#CB65FF",
+      "originalValue": "#CB65FF",
+      "name": "KNOWLEDGE"
+    },
+    "DATASHARES": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#9602C7",
+      "originalValue": "#9602C7",
+      "name": "DATASHARES"
+    },
+    "DATE_TIME": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#939393",
+      "originalValue": "#939393",
+      "name": "DATE_TIME"
+    },
+    "CATEGORY": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#22683E",
+      "originalValue": "#22683E",
+      "name": "CATEGORY"
+    },
+    "MAINTENANCE_WORK_RULE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "MAINTENANCE_WORK_RULE"
+    },
+    "DATA_STREAMS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF538A",
+      "originalValue": "#FF538A",
+      "name": "DATA_STREAMS"
+    },
+    "TEXTBOX": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#939393",
+      "originalValue": "#939393",
+      "name": "TEXTBOX"
+    },
+    "LEAD_INSIGHTS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "LEAD_INSIGHTS"
+    },
+    "WAITS": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "WAITS"
+    },
+    "CONCUR": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "CONCUR"
+    },
+    "FEED": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "FEED"
+    },
+    "SORT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#2F2CB7",
+      "originalValue": "#2F2CB7",
+      "name": "SORT"
+    },
+    "MESSAGING_CONVERSATION": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "MESSAGING_CONVERSATION"
+    },
+    "SERVICE_REPORT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#5867E8",
+      "originalValue": "#5867E8",
+      "name": "SERVICE_REPORT"
+    },
+    "IOT_CONTEXT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "IOT_CONTEXT"
+    },
+    "ASSET_STATE_PERIOD": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "ASSET_STATE_PERIOD"
+    },
+    "CALL": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "CALL"
+    },
+    "COLLECTION": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "COLLECTION"
+    },
+    "STAGE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "STAGE"
+    },
+    "SALES_CADENCE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "SALES_CADENCE"
+    },
+    "PRODUCT_REQUEST_LINE_ITEM": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#3BA755",
+      "originalValue": "#3BA755",
+      "name": "PRODUCT_REQUEST_LINE_ITEM"
+    },
+    "RETURN_ORDER_LINE_ITEM": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "RETURN_ORDER_LINE_ITEM"
+    },
+    "CHART": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "CHART"
+    },
+    "CUSTOMER": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#22683E",
+      "originalValue": "#22683E",
+      "name": "CUSTOMER"
+    },
+    "BUYER_GROUP_QUALIFIER": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#22683E",
+      "originalValue": "#22683E",
+      "name": "BUYER_GROUP_QUALIFIER"
+    },
+    "QUICK_TEXT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "QUICK_TEXT"
+    },
+    "HOME": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF538A",
+      "originalValue": "#FF538A",
+      "name": "HOME"
+    },
+    "SOSSESSION": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "SOSSESSION"
+    },
+    "BUNDLE_CONFIG": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "BUNDLE_CONFIG"
+    },
+    "EMPLOYEE_ASSET": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "EMPLOYEE_ASSET"
+    },
+    "PROCESS_EXCEPTION": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "PROCESS_EXCEPTION"
+    },
+    "PRODUCT_WARRANTY_TERM": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#9050E9",
+      "originalValue": "#9050E9",
+      "name": "PRODUCT_WARRANTY_TERM"
+    },
+    "PROBLEM": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "PROBLEM"
+    },
+    "STAGE_COLLECTION": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#FF5D2D",
+      "originalValue": "#FF5D2D",
+      "name": "STAGE_COLLECTION"
+    },
+    "PRODUCT_REQUEST": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#3BA755",
+      "originalValue": "#3BA755",
+      "name": "PRODUCT_REQUEST"
+    },
+    "LOGGING": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#107CAD",
+      "originalValue": "#107CAD",
+      "name": "LOGGING"
+    },
+    "ASSIGNED_RESOURCE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#3BA755",
+      "originalValue": "#3BA755",
+      "name": "ASSIGNED_RESOURCE"
+    },
+    "RETURN_ORDER": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "RETURN_ORDER"
+    },
+    "POLL": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "POLL"
+    },
+    "HOUSEHOLD": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "HOUSEHOLD"
+    },
+    "WORK_STEP_TEMPLATE": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#06A59A",
+      "originalValue": "#06A59A",
+      "name": "WORK_STEP_TEMPLATE"
+    },
+    "MEDICATION_STATEMENT": {
+      "category": "background-color",
+      "type": "color",
+      "cssProperties": [
+        "background",
+        "background-color"
+      ],
+      "value": "#1B96FF",
+      "originalValue": "#1B96FF",
+      "name": "MEDICATION_STATEMENT"
+    }
+  }
+}
