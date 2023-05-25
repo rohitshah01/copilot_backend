@@ -9,12 +9,19 @@ document.body.addEventListener('submit', (e) => {
     let endpoint = form.action;
 
     if (data['id']) {
-        console.log('Replacing id in endpoint');
-        endpoint = endpoint.replace('\{id\}', data['id']);
+        endpoint = endpoint.replace('%7Bid%7D', data['id']);
+        delete data['id'];
     }
 
     console.log('Endpoint: ' + endpoint);
-    fetch(endpoint).then((response) => {
+
+    fetch(endpoint, {
+        method: form.method,
+        body: JSON.stringify(data),
+        headers: {
+            'Content-Type': 'application/json'
+        }
+    }).then((response) => {
         console.log('Endpoint success response');
         console.log(response);
     }).catch((error) => {
