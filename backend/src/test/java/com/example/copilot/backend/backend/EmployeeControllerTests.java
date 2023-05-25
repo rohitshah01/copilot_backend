@@ -36,8 +36,14 @@ public class EmployeeControllerTests {
 
 	@Test
 	public void testGetAllEmployees() throws Exception {
-		Employee employee1 = new Employee("John", "Doe");
-		Employee employee2 = new Employee("Jane", "Doe");
+		Employee employee1 = Employee.builder()
+				.firstName("John")
+				.lastName("Doe")
+				.build();
+		Employee employee2 = Employee.builder()
+				.firstName("Jane")
+				.lastName("Doe")
+				.build();
 		List<Employee> employees = Arrays.asList(employee1, employee2);
 		given(employeeRepository.findAll()).willReturn(employees);
 
@@ -52,7 +58,10 @@ public class EmployeeControllerTests {
 
 	@Test
 	public void testGetEmployee() throws Exception {
-		Employee employee = new Employee("John", "Doe");
+		Employee employee = Employee.builder()
+				.firstName("John")
+				.lastName("Doe")
+				.build();
 		given(employeeRepository.findById(1L)).willReturn(Optional.of(employee));
 
 		mockMvc.perform(get("/api/employees/1"))
@@ -63,7 +72,10 @@ public class EmployeeControllerTests {
 
 	@Test
 	public void testCreateEmployee() throws Exception {
-		Employee employee = new Employee("John", "Doe");
+		Employee employee = Employee.builder()
+				.firstName("John")
+				.lastName("Doe")
+				.build();
 		given(employeeRepository.save(employee)).willReturn(employee);
 
 		mockMvc.perform(post("/api/employees")
@@ -76,7 +88,10 @@ public class EmployeeControllerTests {
 
 	@Test
 	public void testUpdateEmployee() throws Exception {
-		Employee employee = new Employee("John", "Doe");
+		Employee employee = Employee.builder()
+				.firstName("John")
+				.lastName("Doe")
+				.build();
 		given(employeeRepository.save(employee)).willReturn(employee);
 
 		mockMvc.perform(post("/api/employees/1")
