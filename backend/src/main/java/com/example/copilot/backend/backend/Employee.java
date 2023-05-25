@@ -21,4 +21,7 @@ public class Employee {
   private String firstName;
   private String lastName;
   private String team;
+
+  public Employee(String john, String doe) {
+  }
 }
